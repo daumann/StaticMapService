@@ -53,7 +53,7 @@ MIDDLEWARE_CLASSES = ()
 
 ROOT_URLCONF = 'staticMaps.urls'
 
-WSGI_APPLICATION = 'staticMaps.wsgi.application'
+WSGI_APPLICATION = 'wsgi.application'
 
 LANGUAGE_CODE = 'en-us'
 TIME_ZONE = 'UTC'
